@@ -78,5 +78,8 @@ public class MainActivity extends AppCompatActivity {
         alertDialog.getWindow().getAttributes().windowAnimations = R.style.DialogTheme;
         //alertDialog.getWindow().setLayout(dialogView.getLayoutParams().width,dialogView.getLayoutParams().width);
 
+        //this is new test
+        //this is second test
+
     }
 }
